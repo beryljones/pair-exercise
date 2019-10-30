@@ -1,1 +1,3 @@
-# Read me file
+# README
+
+Name1: Beryl Jones
